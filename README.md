@@ -1,2 +1,2 @@
-# MyProject
+# my
 just me
